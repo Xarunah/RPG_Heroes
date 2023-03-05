@@ -19,4 +19,4 @@ Each class can wear different amor and weapon types.
 * Dagger
 * Axe
 
-Every character start at lvl 1 and need 1000 XP to level up.
+Every character starts at lvl 1 and need 1000 XP to level up.
